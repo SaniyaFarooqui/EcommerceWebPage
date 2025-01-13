@@ -298,4 +298,230 @@ body {
   margin-left: 12px;
   margin-top: 10px;
 }
+.sales{
+  padding: 10px 150px;
+}
+.Sale_header{
+  display: flex;
+  justify-content:space-between;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
 
+.Sale_header a{
+  text-decoration: none;
+  color: black
+}
+
+.Sale_header a:hover{
+  font-weight: bold
+}
+.sales_picture{
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+
+.sales_picture img{
+  height: 240px;
+  width: 230px;  
+  border-radius: 5px;
+}
+
+.Sale1 h4,.Sale2 h4,.Sale3 h4,.Sale4 h4{
+  width: 230px;
+  font-weight: 200;
+  padding: 5px 10px;
+  font-size: 15px;
+}
+
+.Sale1,.Sale2 ,.Sale3 ,.Sale4{
+  border : 1px solid gray;
+  border-radius : 5px;
+  cursor: pointer;
+}
+
+.Sale1 p,.Sale2 p,.Sale3 p,.Sale4 p{
+  font-size: 12px;
+  padding: 5px 10px;
+  color: grey;
+}
+
+.Sale1 h5,.Sale2 h5,.Sale3 h5,.Sale4 h5{
+  font-weight: 700;
+  font-size: medium;
+  padding: 5px 10px;
+}
+
+
+.Sunscreen{
+  padding: 10px 150px;
+}
+.Sunscreen_header{
+  display: flex;
+  justify-content:space-between;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+
+.Sunscreen_header a{
+  text-decoration: none;
+  color: black
+}
+
+.Sunscreen_header a:hover{
+  font-weight: bold
+}
+.Sunscreen_pictures{
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+
+.Sunscreen img{
+  height: 240px;
+  width: 230px;  
+  border-radius: 5px;
+}
+
+.Sunscreen1 h4,.Sunscreen2 h4,.Sunscreen3 h4,.Sunscreen4 h4{
+  width: 230px;
+  font-weight: 200;
+  padding: 5px 10px;
+  font-size: 15px;
+}
+
+.Sunscreen1 ,.Sunscreen2 ,.Sunscreen3 ,.Sunscreen4 {
+  border : 1px solid gray;
+  border-radius : 5px;
+  cursor: pointer;
+}
+
+.Sunscreen1 p,.Sunscreen2 p,.Sunscreen3 p,.Sunscreen4 p{
+  font-size: 12px;
+  padding: 5px 10px;
+  color: grey;
+}
+
+.Sunscreen1 h5,.Sunscreen2 h5,.Sunscreen3 h5,.Sunscreen4 h5{
+  font-weight: 700;
+  font-size: medium;
+  padding: 5px 10px;
+}
+
+.FaceSerum{
+  padding: 10px 150px;
+}
+.FaceSerum_header{
+  display: flex;
+  justify-content:space-between;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+
+.FaceSerum_header a{
+  text-decoration: none;
+  color: black
+}
+
+.FaceSerum_header a:hover{
+  font-weight: bold
+}
+.FaceSerum_pictures{
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+
+.FaceSerum img{
+  height: 240px;
+  width: 230px;  
+  border-radius: 5px;
+}
+
+
+.Serum1 h4,.Serum2 h4,.Serum3 h4,.Serum4 h4{
+  width: 230px;
+  font-weight: 200;
+  padding: 5px 10px;
+  font-size: 15px;
+}
+
+.Serum1 ,.Serum2 ,.Serum3 ,.Serum4 {
+  border : 1px solid gray;
+  border-radius : 5px;
+  cursor: pointer;
+}
+
+.Serum1 p,.Serum2 p,.Serum3 p,.Serum4 p{
+  font-size: 12px;
+  padding: 5px 10px;
+  color: grey;
+}
+
+.Serum1 h5,.Serum2 h5,.Serum3 h5,.Serum4 h5{
+  font-weight: 700;
+  font-size: medium;
+  padding: 5px 10px;
+}
+
+
+.Moisturizer{
+  padding: 10px 150px;
+}
+.Moisturizer_header{
+  display: flex;
+  justify-content:space-between;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+
+.Moisturizer_header a{
+  text-decoration: none;
+  color: black
+}
+
+.Moisturizer_header a:hover{
+  font-weight: bold
+}
+.Moist_pictures{
+  display: flex;
+  justify-content: space-between;
+  height: 450px;
+}
+
+.Moisturizer img{
+  height: 240px;
+  width: 230px;  
+  border-radius: 5px;
+}
+
+
+.moist1 h4,.moist2 h4,.moist3 h4,.moist4 h4{
+  width: 230px;
+  font-weight: 200;
+  padding: 5px 10px;
+  font-size: 15px;
+}
+
+.moist1 ,.moist2 ,.moist3 ,.moist4 {
+  border : 1px solid gray;
+  border-radius : 5px;
+  cursor: pointer;
+}
+
+.moist1 p,.moist2 p,.moist3 p,.moist4 p{
+  font-size: 12px;
+  padding: 5px 10px;
+  color: grey;
+}
+
+.moist1 h5,.moist2 h5,.moist3 h5,.moist4 h5{
+  font-weight: 700;
+  font-size: medium;
+  padding: 5px 10px;
+}
